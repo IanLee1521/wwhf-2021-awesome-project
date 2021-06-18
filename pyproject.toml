@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "awesome"
 version = "0.1.0"
-description = ""
+description = "Our awesome WWHF project"
 authors = ["Ian Lee <IanLee1521@gmail.com>"]
 
 [tool.poetry.dependencies]
